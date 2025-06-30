@@ -1,4 +1,4 @@
-package com.wellsfargo.counselor.entity;
+package com.example.wellsfargo.counselor.entity;
 
 import jakarta.persistence.*;
 

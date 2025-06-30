@@ -1,4 +1,4 @@
-package com.wellsfargo.counselor;
+package com.example.wellsfargo.counselor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
