@@ -1,4 +1,4 @@
-package com.example.wellsfargo.counselor.entity;
+package com.example.wellsfargo.counselor.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
